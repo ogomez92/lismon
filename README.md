@@ -18,4 +18,5 @@ By default it will request for listener count every 2000 ms. This is appropriate
 
 ## Credits
 
-all sounds can be found at [https://currentlyuntitled.design](Currently Untitled audio) thanks guys!
+
+All sounds by Currently Untitled Audio .design (sorry, Github doesn't let me link to .design sites in markdown for some reason).
